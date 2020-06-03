@@ -1,3 +1,3 @@
 # NOM
 
-JD
+JD est un raccourci
